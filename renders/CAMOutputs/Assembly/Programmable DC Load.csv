@@ -5,6 +5,7 @@
 "3";"100 nF";"C-EUC0805";"C0805";"C4, C6, C7";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"88";"";"";"";"";"C";
 "8";"10k";"R-EU_R0805";"R0805";"R1, R2, R3, R4, R5, R6, R7, R16";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"86";"";"";"";"";"R";
 "6";"1k";"R-EU_R0805";"R0805";"R8, R9, R11, R12, R13, R14";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"86";"";"";"";"";"R";
+"1";"2.1MMJACKTHM";"2.1MMJACKTHM";"PJ-102A";"U$6";"2.1mm x 5.5mm THM DC jack with internal switch. Digikey part #PJ-102A, 4UCON part #05537";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
 "1";"220 uF";"CPOL-US140CLH-0810";"140CLH-0810";"C3";"POLARIZED CAPACITOR, American symbol";"";"";"";"";"";"";"";"";"0";"";"";"";"";"C";
 "1";"33 uH";"L-EUL1812";"L1812";"L1";"INDUCTOR, European symbol";"";"";"";"";"";"";"";"";"18";"";"";"";"";"L";
 "1";"332-02";"332-02";"332-02";"X1";"2 Pin - 2mm Dual Row";"";"";"";"";"";"";"";"";"7";"";"";"";"";"";
@@ -12,13 +13,12 @@
 "1";"680 uF";"CPOL-US140CLH-0810";"140CLH-0810";"C2";"POLARIZED CAPACITOR, American symbol";"";"";"";"";"";"";"";"";"0";"";"";"";"";"C";
 "1";"ATMEGA328PB-AU";"ATMEGA328PB-AU";"QFP80P900X900X120-32N";"U1";"ATmega Series 20 MHz 32 KB Flash 2 KB SRAM 8-Bit Microcontroller - TQFP-32 Check prices";"Good";" 8-bit Microcontrollers - MCU ATMEGA328PB 20MHZ IND TEMP ";"Microchip Technology / Atmel";"ATMEGA328PB-AU";"";"";"";"None";"";"None";"";"https://pricing.snapeda.com/search/part/ATMEGA328PB-AU/?ref=eda";"";"";
 "1";"AVRISP-6";"AVRISP-6";"AVRISP";"ISP1";"AVR ISP HEADER";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"2";"EVP-BFAC1A000";"EVP-BFAC1A000";"EVPBFAC1A000";"DECREASE, INCREASE";"Tactile Switches 6.0x6.0x3.4mm 2N w/4 Term .25mm Trvl IP67";"Warning";" Tactile Switch SPST-NO Top Actuated Surface Mount ";"Panasonic Electronic";"EVP-BFAC1A000";"";"";"";"None";"";"None";"";"https://pricing.snapeda.com/search/part/EVP-BFAC1A000/?ref=eda";"";"";
 "3";"FIDUCIAL";"FIDUCIAL";"FIDUCIAL_1MM";"U$2, U$3, U$4";"For use by pick and place machines to calibrate the vision/machine, 1mm";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
 "1";"IRF540";"IRF540";"TO220BV";"Q1";"HEXFET Power MOSFET";"";"";"";"";"";"";"";"";"7";"";"";"";"";"";
 "1";"LCD-16X2SILK";"LCD-16X2SILK";"LCD-16X2";"LCD1";"Standard text-only 16x2 parallel input LCD";"";"";"";"";"";"";"";"";"";"";"LCD-12633";"";"LCD-00255";"";
 "1";"LM2596S";"LM2596S";"TO263-5";"IC1";"STEP-DOWN VOLTAGE REGULATOR";"";"";"";"";"";"";"";"";"0";"";"";"";"";"";
-"1";"LM358N";"LM358N";"DIL08";"IC3";"OP AMP also LM158; LM258; LM2904";"";"";"";"";"";"";"";"";"7";"";"";"";"";"";
-"1";"MCP4921-E/P";"MCP4921-E/P";"DIP787W46P254L927H533Q8";"U$1";"Check prices";"Warning";" 12 Bit Digital to Analog Converter 1 8-PDIP ";"Microchip";"MCP4921-E/P";"";"";"";"DIP-8 Microchip";"";"None";"";"";"";"";
-"2";"MOMENTARYBUTTON";"MOMENTARYBUTTON";"SPST_NO_SMD";"DECREASE, INCREASE";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
-"1";"POTENTIOMETER";"TRIM_EU-3223G";"3223G";"R15";"POTENTIOMETER";"";"";"";"";"";"";"";"";"2";"";"";"";"";"";
-"1";"POWER_JACK";"POWER_JACK";"POWER_JACK_PTH";"J2";"Power Jack Connector";"";"";"";"";"";"";"";"";"";"";"CONN-08197";"";"";"";
+"1";"LM358MX";"LM358MX";"SO08";"IC2";"OP AMP also LM158; LM258; LM2904";"";"";"";"";"";"";"";"";"0";"";"";"";"";"";
+"1";"MCP4921-E/SN";"MCP4921-E/SN";"SOIC127P600X175-8N";"U$1";"Check prices";"Good";" 12 Bit Digital to Analog Converter 1 8-SOIC ";"Microchip";"MCP4921-E/SN";"";"";"";"SOIC-8 Microchip";"";"None";"";"https://pricing.snapeda.com/search/part/MCP4921-E/SN/?ref=eda";"";"";
+"1";"RK09K1130A5R";"RK09K1130A5R";"RK09K1130A5R";"POT1";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
 "1";"SS34";"SS34";"DIOM7959X265N";"D2";"Diode Schottky 40V 3A 2-Pin SMC T/R Check prices";"Good";" Diode Schottky 40V 3A Surface Mount SMC (DO-214AB) ";"ON Semiconductor";"SS34";"";"";"";"SMC-2 ON Semiconductor";"";"None";"";"https://pricing.snapeda.com/search/part/SS34/?ref=eda";"";"";
