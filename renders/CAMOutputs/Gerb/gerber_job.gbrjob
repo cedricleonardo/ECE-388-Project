@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2020-11-11T16:05:48Z",
+        "CreationDate": "2020-11-12T01:04:50Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -17,7 +17,7 @@
         },
         "Owner": "Cedric Leonardo <cleonardo1@umassd.edu>",
         "Size": {
-            "X": 93.96,
+            "X": 97.77,
             "Y": 94.92
         }
     }
